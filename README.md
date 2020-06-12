@@ -13,7 +13,7 @@ A bad Python Cellular Automata simulator with arbitrary neighborhood and infinit
 	- [RLE](#rle)
 	- [CCA](#cca)
 * [Known Bugs](#known-bugs)
-* [Planned Additions](#planned-additions)
+* [Working on Additions](#working-on-additions)
 
 ## Usage
 There are two ways to use CoordCA, the first is to simply open the executable file.
@@ -159,8 +159,7 @@ Example of a pattern in CCA format:
 * Program sometimes crashes when selecting.
 * Cell at 0,0 toggled when mouse starts on grid on opening the program.
 
-## Planned Additions
-* Ability to use multiple algorithms to simulate different rules.
-* Ability to implement a custom algorithm easily.
-* Enter as a substitute for "Ok".
-* Icons instead of text.
+## Working on Additions
+* Generations
+* Extended ruletables
+* Scripting
